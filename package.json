@@ -1,0 +1,20 @@
+{
+  "name": "generate-passphrase",
+  "version": "1.0.0",
+  "description": "Generate Passphrase, Passphrase Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "generate passphrase",
+    "passphrase generator",
+    "passphrase creator",
+    "creator passphrase"
+  ],
+  "author": "deanilvincent",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
