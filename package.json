@@ -1,6 +1,6 @@
 {
   "name": "generate-passphrase",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Passphrase, Passphrase Generator",
   "main": "index.js",
   "scripts": {
