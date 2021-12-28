@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/dv-github-repos/value-size/_apis/build/status/deanilvincent.value-size?branchName=master)](https://dev.azure.com/dv-github-repos/value-size/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/dv-github-repos/generate-passphrase/_apis/build/status/deanilvincent.generate-passphrase?branchName=main)](https://dev.azure.com/dv-github-repos/generate-passphrase/_build/latest?definitionId=7&branchName=main)
 
 # Overview
 
@@ -29,7 +29,7 @@ console.log(generatePassPhrase(5, 'a'))
 | Property   | Desc.                                          |
 | ---------- | ---------------------------------------------- |
 | length     | word(s) that will return as array              |
-| startsWith | return words that starts with the given letter |
+| startsWith | return words that start with the given letter |
 
 ### Contribute
 
