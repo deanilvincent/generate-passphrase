@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/dv-github-repos/generate-passphrase/_apis/build/status/deanilvincent.generate-passphrase?branchName=main)](https://dev.azure.com/dv-github-repos/generate-passphrase/_build/latest?definitionId=7&branchName=main)
+[![Build Status](https://dev.azure.com/dv-github-repos/passphrase-generator/_apis/build/status/deanilvincent.passphrase-generator?branchName=main)](https://dev.azure.com/dv-github-repos/passphrase-generator/_build/latest?definitionId=7&branchName=main)
 
 # Overview
 
@@ -6,14 +6,14 @@ NPM package that generates passphrase.
 
 # Installation
 
-`npm i generate-passphrase --save`
+`npm i passphrase-generator --save`
 
 # Setup & Basic Usage
 
 ```
-const { generatePassPhrase } = require('generate-passphrase')
+const { generatePassPhrase } = require('passphrase-generator')
 // OR
-import { generatePassPhrase } from 'generate-passphrase'
+import { generatePassPhrase } from 'passphrase-generator'
 
 console.log(generatePassPhrase(5))
 // ['acceptable', 'wilderness', 'carsick', 'bypass', 'crossly']
@@ -33,12 +33,12 @@ console.log(generatePassPhrase(5, 'a'))
 
 ### Contribute
 
-Feel free to clone or fork this project: `https://github.com/deanilvincent/generate-passphrase.git`
+Feel free to clone or fork this project: `https://github.com/deanilvincent/passphrase-generator.git`
 
 Contributions & pull requests are welcome!
 
-I'll be glad if you give this project a ★ on [Github](https://github.com/deanilvincent/generate-passphrase) :))
+I'll be glad if you give this project a ★ on [Github](https://github.com/deanilvincent/passphrase-generator) :))
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/deanilvincent/generate-passphrase/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/deanilvincent/passphrase-generator/blob/master/LICENSE) file for details.

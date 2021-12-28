@@ -1,7 +1,7 @@
 {
-  "name": "generate-passphrase",
-  "version": "1.0.1",
-  "description": "Generate Passphrase, Passphrase Generator",
+  "name": "passphrase-generator",
+  "version": "1.0.0",
+  "description": "NPM package that generates passphrase.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
